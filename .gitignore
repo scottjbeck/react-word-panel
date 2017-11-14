@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+##### - From github.com
 # Logs
 logs
 *.log
@@ -58,7 +58,7 @@ typings/
 # dotenv environment variables file
 .env
 
-=======
+##### - from CRA
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
@@ -80,4 +80,3 @@ typings/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
->>>>>>> First commit
